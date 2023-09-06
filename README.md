@@ -1,4 +1,4 @@
-# Machine Learning for AI class repository
+# Repository for ML4AI class
 
 Author: Lee-geonwu
 
